@@ -1754,13 +1754,13 @@ if (isBanChat) return reply(mess.banChat)
 reply(` Don't forget to join yeah!
 
 *GROUP 1*
-https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS
+
 
 *GROUP 2*
-https://chat.whatsapp.com/LS1Xx3fSqg7FpSYSjKWhL5
+
 
 *GROUP 3*
-https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd`)
+`)
 break
 case 'getsxvdxcmd': {
 if (isBan) return reply(mess.ban)	 			
@@ -9280,7 +9280,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
                     title: `Hi ${pushname}`,
                     description: `Please Choose The Menu
 *DONATE ME DANA OR PULSA*
-*[083813063969]*\n\n`,
+*[081359053674]*\n\n`,
                     buttonText: "Menu",
                     footerText: `${global.botname}`,
                     listType: "SINGLE_SELECT",
@@ -10951,8 +10951,9 @@ case 'tqtt':
 	if (isBanChat) return reply(mess.banChat)
 reply(`Thanks to
 LORD BUDDHA
-Xeon (Me)
+Xeon 
 My family
+T0MTys (me)
 And all friends who helped assemble this sexy script !!!`)
 break
 default:
