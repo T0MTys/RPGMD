@@ -1664,8 +1664,8 @@ case 'sc': case 'script': case 'donate': case 'donate': case 'cekupdate': case '
 if (isBanChat) return reply(mess.banChat)
 teks = `*「 ${global.botname} Script 」*\n\nTiktok: ${global.websitex}\nGitHub: ${global.botscript}\n\n*DON'T FORGET TO DONATE THROUGH FUNDS OR PULSE*
 
-*FUND : 083813063969*
-*PULSE : 083813063969*🍜`
+*FUND : 081359053674*
+*PULSE : 081359053674*🍜`
 let buttons = [
 {buttonId: `menu`, buttonText: {displayText: 'Menu 🌺'}, type: 1}
 ]
