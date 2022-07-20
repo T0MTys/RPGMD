@@ -43,13 +43,13 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.owner = ['6281359053674'] //ur owner number
 global.ownername = "Tom"
-global.ytname = "https://YouTube.com/Projects The Next" //ur yt chanel name
+global.ytname = "https://youtube.com/channel/UCD5FLgQdtVcPO6uzQf6i6NA" //ur yt chanel name
 global.socialm = "GitHub: T0MTys" //ur github or insta name
 global.location = "Indonesia" //ur location
 
 //bot bombdy
 global.botname = "Tom" //ur bot name
-global.websitex = "https://YouTube.com/Projects The Next" //ur website
+global.websitex = "https://youtube.com/channel/UCD5FLgQdtVcPO6uzQf6i6NA" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Tom\n\n\n\n\n\n\ "
 global.author = "By Tom"
